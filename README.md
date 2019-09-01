@@ -17,4 +17,4 @@ Project_data.txt
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+My mentor Mahmoud helped me when I couldn't find my assignment in the Udacity portal. He stayed calm while I was stressing about it. Thank you!
